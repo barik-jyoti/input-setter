@@ -1,0 +1,16 @@
+.child {
+    margin: 20px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+span {
+    margin-left: 10px;
+}
+
+.fa {
+    font-weight: bold;
+}
